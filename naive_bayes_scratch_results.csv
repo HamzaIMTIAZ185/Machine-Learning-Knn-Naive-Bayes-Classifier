@@ -1,0 +1,2 @@
+Model,Variant,Accuracy,Sensitivity,Specificity,Confusion Matrix
+Naive Bayes Scratch,"Categorical, equal-width bins",0.9180327868852459,1.0,0.8484848484848485,"[[28, 5], [0, 28]]"
